@@ -1,0 +1,12 @@
+/*
+=== header style=== 
+ */
+
+ /* header tag */
+ header{
+    color: #fff;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    background:#fff url('../images/logo.png') 20px center no-repeat;
+ }
